@@ -1,0 +1,8 @@
+battlesnake:
+  config:
+    "apiversion": "1"
+    "author": "alexandramartinez"
+    "color" : "#FF5500"
+    "head" : "ghost"
+    "tail" : "leaf"
+    "version" : "0.0.1-beta"
